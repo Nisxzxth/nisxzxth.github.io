@@ -237,12 +237,12 @@ nav ul li a:hover::after{
     background-color: #fff;
 }
 .contact-left{
-    flex-basis: 70%;
-    margin-left: 120px;
+    flex-basis: 30%;
+    margin-left: 40px;
 }
 .contact-right{
     flex-basis: 50%;
-    margin-right: 120px;
+    margin-right: 80px;
 }
 .contact-left p{
     margin-top: 40px;
